@@ -59,4 +59,3 @@ AUDIO_FEATURE_ENABLED_LOW_LATENCY_CAPTURE := true
 
 # inherit from the proprietary version
 -include vendor/oneplus/bacon/BoardConfigVendor.mk
-include vendor/xenonhd/configs/sm.mk
