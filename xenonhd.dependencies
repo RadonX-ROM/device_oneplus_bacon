@@ -20,9 +20,9 @@
     "revision": "lp-mr1"
   },
   {
-    "remote": "th",
-    "repository": "android_kernel_oneplus_msm8974",
+    "remote": "gh",
+    "repository": "TGM-Hybrid/tgm-bacon-cm",
     "target_path": "kernel/oneplus/msm8974",
-    "revision": "lp-mr1"
+    "revision": "xenon"
   }
 ]
